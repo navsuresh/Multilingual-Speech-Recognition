@@ -2,7 +2,7 @@
 11-737 Assignment 2
 
 #### Team Members:
-Aninditha Ramesh (aninditr)
+Aninditha Ramesh (aninditr) <br/>
 Naveen Suresh (naveensu)
 
 ### General Instructions:
