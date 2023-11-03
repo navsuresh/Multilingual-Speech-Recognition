@@ -1,6 +1,10 @@
 # Multilingual-Speech-Recognition
 11-737 Assignment 2
 
+#### Team Members:
+Aninditha Ramesh (aninditr)
+Naveen Suresh (naveensu)
+
 ### General Instructions:
 All the code for the assignment can be run on Google Colab T4 GPU instances. After creating a notebook that is connected to a T4-backed runtime, kindly follow the below steps for each sub-task.
 
